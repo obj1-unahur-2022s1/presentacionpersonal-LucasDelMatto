@@ -12,4 +12,4 @@
 * Vamos a tener distintas alternativas de horarios para consultas y práctica.
 
 ## dejamos una reflexión 🤪
-![somos todos](https://github.com/obj1-unahur-2022s1/PresentacionPersonal/blob/main/meme.jpg)
+![somos todos](https://github.com/obj1-unahur-2022s1/presentacionpersonal-LucasDelMatto/blob/main/meme.png)
